@@ -1,0 +1,42 @@
+.h1-ticket {
+    margin-top: 115px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 55px;
+}
+
+.button-skip {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.col {
+    /* border: 1px solid; */
+    padding: 10px;
+}
+
+.search-button {
+    margin-left: 1px;
+}
+
+.form-action {
+    margin: 15px;
+}
+.img-usericon {
+    width: 25px;
+    height: 25px;
+}
+
+.content-service {
+    border: 1px solid;
+}
+
+.container-row, .container-promosi, .container-informasi{
+    margin: 35px;
+}
+
+.img-pesawat, .img-bill, .img-rental, .img-bus, .img-kereta, .img-quick, .img-antar {
+    width: 45px;
+    height: 45px;
+}
+
+
